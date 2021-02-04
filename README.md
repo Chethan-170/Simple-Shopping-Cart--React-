@@ -1,4 +1,4 @@
-## Concepts Covered
+# Concepts Covered
   * Rendering classes dynamically 
   * Handling events
   * Binding event handlers
